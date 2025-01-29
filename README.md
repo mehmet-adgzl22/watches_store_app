@@ -24,13 +24,9 @@ Bu proje, şık ve modern saatlerin tanıtımını yapan bir e-ticaret web sites
 - Navigasyon menüsü ve kategori filtreleme
 - Animasyonlar ve geçiş efektleri
 
-## Kullanım
-Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
-
-1. Proje dosyalarını indirin veya klonlayın.
-2. **index.html** dosyasını tarayıcıda açın.
 
 ## Proje Gifi
+![wathes-ezgif](https://github.com/user-attachments/assets/8884e9f2-dde4-434f-8242-6dce900bde92)
 
 
 
